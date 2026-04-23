@@ -10,7 +10,7 @@
 
 | STT | Thành phần | Mô tả / Đường dẫn |
 |---|---|---|
-| 1 | **Kết quả Benchmark** | [benchmark_result.json](./ml-benchmark) |
+| 1 | ** Benchmark** | [benchmark.py](./ml-benchmark) |
 | 2 | **Báo cáo tóm tắt** | [REPORT.md](./REPORT.md) |
 | 3 | **Mã nguồn Terraform** | Thư mục [terraform/](./terraform/) |
 | 4 | **Ảnh chụp minh chứng** | Thư mục `screenshots/` (Terminal output ) |
