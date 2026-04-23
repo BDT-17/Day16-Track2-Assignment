@@ -1,7 +1,7 @@
 # Báo cáo kết quả Lab 16: Cloud AI Environment Setup (CPU Fallback)
 
-- **Sinh viên:** Bùi Cao Chinh
-- **Mã sinh viên:** 2A202600001
+- **Sinh viên:** Bùi Đức Thắng
+- **Mã sinh viên:** 2A202600002
 - **Phương án thực hiện:** CPU Instance với LightGBM (Do hạn mức GPU bị từ chối)
 
 ---
